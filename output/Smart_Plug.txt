@@ -1,0 +1,14 @@
+
+            UNWIND $data as row
+            CREATE (n:Smart_Plug {id: row['id'],
+            name: row['name'], 
+            state: row['state'],
+            voltage: row['voltage'],
+            e_current: row['e_current'],
+            active_power: row['active_power'],
+            aparent_power: row['aparent_power'],
+            reactive_power: row['reactive_power'],  
+            timestamp: row['timestamp'], 
+            type: row['type'], 
+            floor: row['floor']})
+            

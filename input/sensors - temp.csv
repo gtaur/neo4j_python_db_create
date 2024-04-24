@@ -1,0 +1,16 @@
+id,name,state,temp,humidity,timestamp,type,room
+333,temp_01,1,22.5 °C,55 RH,1744014492,sensor,PIS
+334,temp_02,0,20.2 °C,62 RH,1744014493,sensor,PIS
+335,temp_03,1,24.1 °C,50 RH,1744014494,sensor,FAG
+336,temp_04,0,19.8 °C,65 RH,1744014495,sensor,FAG
+337,temp_05,1,23.4 °C,53 RH,1744014496,sensor,PIS
+338,temp_06,1,21.8 °C,58 RH,1744014497,sensor,OS1
+339,temp_07,0,20.5 °C,60 RH,1744014498,sensor,OLV
+340,temp_08,1,22.9 °C,52 RH,1744014499,sensor,CAR
+341,temp_09,0,19.3 °C,67 RH,1744014500,sensor,CAR
+342,temp_10,1,23.7 °C,51 RH,1744014501,sensor,CAR
+343,temp_11,0,20.9 °C,63 RH,1744014502,sensor,OS2
+344,temp_12,1,22.3 °C,54 RH,1744014503,sensor,ACE
+345,temp_13,0,19.6 °C,66 RH,1744014504,sensor,ACE
+346,temp_14,1,24.5 °C,49 RH,1744014505,sensor,ACE
+347,temp_15,0,20.1 °C,61 RH,1744014506,sensor,CAR

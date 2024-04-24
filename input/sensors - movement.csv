@@ -1,0 +1,16 @@
+id,name,state,timestamp,type,room
+444,presence_01,0,1744014497,sensor,PIS
+445,presence_02,1,1744014498,sensor,PIS
+446,presence_03,0,1744014499,sensor,PIS
+447,presence_04,1,1744014500,sensor,PIS
+448,presence_05,0,1744014501,sensor,OS1
+449,presence_06,1,1744014502,sensor,CAR
+450,presence_07,0,1744014503,sensor,CAR
+451,presence_08,1,1744014504,sensor,CAR
+452,presence_09,0,1744014505,sensor,CAR
+453,presence_10,1,1744014506,sensor,OS1
+454,presence_11,0,1744014507,sensor,FAG
+455,presence_12,1,1744014508,sensor,FAG
+456,presence_13,0,1744014509,sensor,FAG
+457,presence_14,1,1744014510,sensor,FAG
+458,presence_15,0,1744014511,sensor,OS2

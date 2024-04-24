@@ -1,0 +1,4 @@
+match (x:Floor),(y:Room)
+where x.level = y.level 
+merge (x)-[r:HAS_ROOM]-(y)
+return count(r)

@@ -1,0 +1,15 @@
+id,name,state,timestamp,type,room
+888,door_07,0,1712585220,sensor,PIS
+889,door_08,1,1712585221,sensor,PIS
+890,door_09,0,1712585222,sensor,PIS
+891,door_10,1,1712585223,sensor,OS2
+892,door_11,0,1712585224,sensor,OS1
+893,door_12,1,1712585225,sensor,OLV
+894,door_13,0,1712585226,sensor,FAG
+895,door_14,1,1712585227,sensor,FAG
+896,door_15,0,1712585228,sensor,CAR
+897,door_16,1,1712585229,sensor,CAR
+898,door_17,0,1712585230,sensor,CAR
+899,door_18,1,1744014503,sensor,CAR
+900,door_19,0,1744014504,sensor,ACE
+901,door_20,1,1744014505,sensor,ACE

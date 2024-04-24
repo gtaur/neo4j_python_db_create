@@ -1,0 +1,10 @@
+
+            UNWIND $data as row
+            CREATE (n:Temp_Sensor {id: row['id'],
+            name: row['name'], 
+            temp: row['temp'],  
+            humidity: row['humidity'], 
+            timestamp: row['timestamp'], 
+            type: row['type'], 
+            room: row['room']})
+            

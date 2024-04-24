@@ -1,0 +1,16 @@
+id,name,state,type,room
+543,light_01,0,sensor,PIS
+545,light_02,1,sensor,PIS
+546,light_03,0,sensor,PIS
+541,light_04,1,sensor,PIS
+540,light_05,0,sensor,PIS
+547,light_06,1,sensor,OS1
+542,light_07,0,sensor,OLV
+548,light_08,1,sensor,OLV
+549,light_09,0,sensor,OLV
+550,light_10,1,sensor,OLV
+551,light_11,0,sensor,OS2
+552,light_12,1,sensor,ACE
+553,light_13,0,sensor,ACE
+554,light_14,1,sensor,ACE
+555,light_15,0,sensor,CAR

@@ -1,0 +1,8 @@
+UNWIND$dataasrow
+CREATE(n:Gas_Sensor{id:row['id'],
+name:row['name'],
+state:row['state'],
+value:row['value'],
+timestamp:row['timestamp'],
+type:row['type'],
+room:row['room']})

@@ -1,0 +1,3 @@
+CREATE (:Site {name: 'Lutech Advanced Solutions', city: 'Bari', prov:'BA' ,address:'Via Orfeo Mazzitelli, 258/e', zip:'70124',code:'LAS'})
+CREATE (:Floor {level:1, venue:'Lutech Advanced Solutions',code:'LAS'}),(:Floor {level: 2, venue:'Lutech Advanced Solutions',code:'LAS'})
+CREATE (:Room {name: 'Sala Pistacchio', level: 1, code:'PIS'}),(:Room {name: 'Open_Space_02', level: 1, code:'OS2'}),(:Room {name: 'Sala Acero', level: 1, code:'ACE'}),(:Room {name: 'Open_Space_01', level: 1, code:'OS1'}),(:Room {name: 'Sala Carrubo', level: 1, code:'CAR'}),(:Room {name: 'Sala Faggio', level: 1, code:'FAG'}),(:Room {name: 'Sala Olivo', level: 1, code:'OLV'})

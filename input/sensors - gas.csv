@@ -1,0 +1,16 @@
+id,name,state,value,timestamp,type,room
+111,gas_01,1,5200 ppm,1712585204,sensor,PIS
+112,gas_02,0,4800 ppm,1712585205,sensor,PIS
+113,gas_03,1,5500 ppm,1712585206,sensor,FAG
+114,gas_04,0,4600 ppm,1712585207,sensor,FAG
+115,gas_05,1,5300 ppm,1712585208,sensor,PIS
+116,gas_16,1,5400 ppm,1712585209,sensor,OS1
+117,gas_17,0,4900 ppm,1712585210,sensor,OLV
+118,gas_18,1,16000 ppm,1712585211,sensor,CAR
+119,gas_19,0,4700 ppm,1712585212,sensor,CAR
+120,gas_20,1,5200 ppm,1712585213,sensor,CAR
+121,gas_21,0,4850 ppm,1712585214,sensor,OS2
+122,gas_22,1,5500 ppm,1712585215,sensor,ACE
+123,gas_23,0,4650 ppm,1712585216,sensor,ACE
+124,gas_24,1,5100 ppm,1712585217,sensor,ACE
+125,gas_25,0,4950 ppm,1712585218,sensor,CAR

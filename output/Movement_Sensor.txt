@@ -1,0 +1,9 @@
+
+            UNWIND $data as row
+            CREATE (n:Movement_Sensor {id: row['id'],
+            name: row['name'], 
+            state: row['state'],  
+            timestamp: row['timestamp'], 
+            type: row['type'], 
+            room: row['room']})
+            

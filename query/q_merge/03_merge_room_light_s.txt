@@ -1,0 +1,5 @@
+match (x:Room),(y:Light_Sensor)
+where x.code = y.room 
+merge (x)-[r:HAS_SENSOR]-(y)
+return count(r)
+

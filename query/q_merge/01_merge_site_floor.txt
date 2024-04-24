@@ -1,0 +1,4 @@
+match(x:Site),(y:Floor)
+where x.code = y.code 
+merge (x)-[r:HAS_FLOOR]-(y)
+return count(r)

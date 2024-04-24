@@ -1,0 +1,5 @@
+match (x:Floor),(y:Smart_Plug)
+where x.level = y.floor
+merge (x)-[r:HAS_PLUG]-(y)
+return count(r)
+
